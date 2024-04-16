@@ -5,7 +5,7 @@ Objective: correctly identify digits (0-9) from a dataset of tens of thousands o
 
 You can learn from this code how to:
 
-1. Preprocess decoded images (normalization, label encoding, reshaping).
-2. Augment the data (create new images from existing ones by rotating, zooming and shifting).
-3. Build an ensemble of Neural Nets.
-4. Train Neural Nets with decreasing learning rate.
+1. **Preprocess** decoded **images** (normalization, label encoding, reshaping).
+2. **Augment the data** (create new images from existing ones by rotating, zooming and shifting).
+3. **Build an ensemble** of Neural Nets.
+4. **Train Neural Nets** with decreasing learning rate.
